@@ -1,0 +1,4 @@
+1. Create secure envoirnment mean chroot, SSL, limit ip and authentication.
+2. Extract source code to destination
+3. Create new database and put 'DATABASE.sql'
+4. Edit config.php and default_values.php
